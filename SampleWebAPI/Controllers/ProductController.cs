@@ -11,8 +11,8 @@ namespace SampleWebAPI.Controllers
             new Product
             {
                 Id = 0,
-                Name = "Fire Truck",
-                Description = "A red truck"
+                Name = "Rad Truck",
+                Description = "A rad truck"
             },
             new Product
             {
